@@ -22,7 +22,7 @@ The default values are shown below.
 
 ```bash
 VIZAR_SERVER=http://localhost:5000
-VIZAR_LOCATION="ROS Testing"
+VIZAR_LOCATION="WiFi Tag Testing"
 VIZAR_TAG_PATTERN="wifi-tag-*"
 ```
 
